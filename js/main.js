@@ -30,7 +30,7 @@ $("document").ready(function () {
 
 function countdownTimer() {
 
-    var endAt = new Date("10 March 2024 00:00:00 GMT+01:00");
+    var endAt = new Date("10 March 2025 00:00:00 GMT+01:00");
 
     endAt = (Date.parse(endAt) / 1000);
 
